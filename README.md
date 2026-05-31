@@ -3,7 +3,7 @@ This is a Fix For The Submerged Map and its Compatability with TOU Mira  ----  M
                                                                                                                                                                 
 **If You have Any Issues DM ME Frisk902 On Discord and i proably will fix them or list them here**
                                                                                                                           
-Roles That **Must Be** Disabled
+Roles That **Must Be** Disabled:
 Medium - This is the reason for why submerged doesnt work in the first place if someone rolls medium they will crash
                                                                                                                           
 **Roles/Modifers That Are Broken/Bugged  _Its Reccomended To Disable These_**
